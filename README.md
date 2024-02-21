@@ -18,7 +18,7 @@ No installation required. Download the standalone .exe file, and you're ready to
 
 ### How to Play
 
-1. Download the [PingPongGame.exe](PingPongGame.exe) file from the repository.
+1. Download the [PingPongGame.exe](https://github.com/al-ghaly/Ping-Pong-Game/blob/main/Game.exe) file from the repository.
 2. Double-click the executable to start the game.
 3. Player 1 uses W and S keys to move their paddle up and down.
 4. Player 2 uses arrow keys (Up and Down) to move their paddle.
@@ -35,7 +35,7 @@ https://github.com/al-ghaly/Ping-Pong-Game/assets/61648960/c80798a2-161d-4802-8e
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/al-ghaly/Ping-Pong-Game/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
